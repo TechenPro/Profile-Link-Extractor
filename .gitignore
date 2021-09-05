@@ -1,0 +1,8 @@
+__pycache__
+.venv
+.vscode
+build
+dist
+outputs
+*.html
+*.spec
